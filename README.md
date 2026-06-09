@@ -12,6 +12,16 @@ styled dark-mode HTML dashboard automatically in your browser.
 
 file:///C:/Users/Dell/Desktop/StudentPerformanceDashboard.html
 <img width="1248" height="560" alt="image" src="https://github.com/user-attachments/assets/dd936814-e0e2-448e-a7d7-57a07c0171c0" />
+<img width="1251" height="634" alt="image" src="https://github.com/user-attachments/assets/47bc31a4-c3eb-47a4-b0c5-d0997d3751bf" />
+<img width="1268" height="567" alt="image" src="https://github.com/user-attachments/assets/b4eff46c-fc7e-4d87-ba11-f5ffdab79b33" />
+<img width="1211" height="619" alt="image" src="https://github.com/user-attachments/assets/14ec11c2-59ea-4d85-9775-e3a0fe3d3358" />
+<img width="1324" height="450" alt="image" src="https://github.com/user-attachments/assets/9f7c5820-a029-479e-8503-acf1766d826a" />
+<img width="1153" height="597" alt="image" src="https://github.com/user-attachments/assets/66535d6f-cc26-4ebc-b536-23d566fb3830" />
+
+
+
+
+
 
 
 
