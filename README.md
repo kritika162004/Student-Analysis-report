@@ -10,7 +10,7 @@ styled dark-mode HTML dashboard automatically in your browser.
 
 
 
-![Dashboard Preview](dashboard_preview.png)
+file:///C:/Users/Dell/Desktop/StudentPerformanceDashboard.html
 
 ---
 
